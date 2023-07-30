@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "teasd",
+      "price": "200000",
+      "desc": "Good",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ice-tea-royalty-free-image-1621872849.jpg?resize=980:*"
+    },
+    {
+      "name": "hicd",
+      "price": "100ced",
+      "id": 3
+    },
+    {
+      "name": "cedcdc",
+      "price": "35354",
+      "id": 4
+    },
+    {
+      "name": "duc",
+      "price": "23456",
+      "id": 5
+    }
+  ]
+}
